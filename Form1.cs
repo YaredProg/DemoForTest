@@ -20,9 +20,13 @@ namespace check
 }
 //yared1
 //yared2
-<<<<<<< HEAD
+
 //yared3
-=======
+
 //test1
 //test2
->>>>>>> test1
+
+
+//yared
+//test2
+
